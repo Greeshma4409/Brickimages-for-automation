@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Brick Photos 256 to 356</folder>
+	<filename>284.jpg</filename>
+	<path>C:/Users/HP/OneDrive/Desktop/Project Report and PPT/Brick Photos 256 to 356/284.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>612</width>
+		<height>459</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>brick</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>16</xmin>
+			<ymin>67</ymin>
+			<xmax>599</xmax>
+			<ymax>357</ymax>
+		</bndbox>
+	</object>
+</annotation>
